@@ -1,8 +1,8 @@
-Dashboard com analise de vários pontos ligados aos dados fornecidos pelo cliente, no caso um empresa que realiza vendas por meio de Call Center.
-Top Consultores por Equipe
-Análise por mês
-Análise de vendas
-Análise de propagandas convertidas
+Dashboard com analise de vários pontos ligados aos dados fornecidos pelo cliente, no caso um empresa que realiza vendas por meio de Call Center.</br>
+Top Consultores por Equipe</br>
+Análise por mês</br>
+Análise de vendas</br>
+Análise de propagandas convertidas</br>
 
 Todos os dados foram especificados para análise por mês e por equipe de venda
 
