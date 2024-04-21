@@ -1,5 +1,4 @@
 <p>Este projeto visa fornecer à empresa de call center uma ferramenta poderosa para análise de desempenho, especificamente focada na identificação dos principais consultores por equipe, análise de vendas e análise de propagandas convertidas. O dashboard é construído com Python, utilizando as bibliotecas Pandas, Dash e Plotly para uma experiência interativa e visualmente atraente.</p>
-</br>
 <p>
 Top Consultores por Equipe</br>
 Análise por mês</br>
